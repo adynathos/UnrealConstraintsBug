@@ -1,0 +1,26 @@
+
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+*_BuiltData.uasset
+
+# IDEs
+# VSC
+.vscode
+*.code-workspace
+.ignore
+
+# VS build
+.vs
+*.sln
+# kdevelop
+*.kdev4
+# codelite
+*.workspace
+.codelite
+*CodeCompletionFolders.txt
+*CodeLitePreProcessor.txt
+
+#Blender
+*.blend1
